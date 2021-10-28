@@ -94,6 +94,7 @@ Every Project
 6. heroku login
 7. heroku create (only one time for a project)
 8. command : git push heroku main
+9. heroku > app > settings > add var
 
 ------
 update:
